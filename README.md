@@ -13,4 +13,6 @@ Cist kratak kod
   
   
   netstat -lnp  sve zauzeto (levo frontend desno moja)
- 
+  
+  
+ https://artificialintelligence.oodles.io/dev-blogs/Step-by-Step-Guide-to-Deploying-MinIO-on-Docker-and-Kubernetes
